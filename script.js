@@ -70,7 +70,7 @@ console.log(arrSome);
 
 
 
-// Array With Functions Push ,Pop, shift, unshifts, Splice string function
+// Array With Functions Push ,Pop, shift, unshifts, Splice
 
 
 // 1. Push 
